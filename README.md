@@ -72,8 +72,4 @@ python 01_falling_objects.py
 * URDF files are loaded from `pybullet_data`.
 
 
-Happy simulating! 🚀
-
-
-Do you want me to do that?
-```
+Happy simulating!
